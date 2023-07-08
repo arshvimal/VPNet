@@ -1,3 +1,7 @@
 {
-  'api-domains': ['https://api.vp-net.tech/connection/status', 'https://net.api.arshvimal.com/connection/status', 'https://vpn.api.arshvimal.com/connection/status']
+  'api-domains': {
+  'domain1': 'https://api.vp-net.tech/connection/status',
+  'domain2': 'https://net.api.arshvimal.com/connection/status',
+  'domain3': 'https://vpn.api.arshvimal.com/connection/status'
+  }
 }
