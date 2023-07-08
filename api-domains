@@ -1,1 +1,4 @@
-api-domains = ['https://api.vp-net.tech/connection/status','https://net.api.arshvimal.com/connection/status','https://vpn.api.arshvimal.com/connection/status']
+https://api.vp-net.tech
+https://net.api.arshvimal.com
+https://vpn.api.arshvimal.com
+https://5tcr5bo2p1.execute-api.ap-south-1.amazonaws.com/api
