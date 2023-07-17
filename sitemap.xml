@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://arshvimal.github.io/VPNet/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://vp-net.tech/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://arshvimal.github.io/VPNet/</loc>
+<loc>https://vp-net.tech/</loc>
 </url>
 <url>
-<loc>https://arshvimal.github.io/VPNet/test.html</loc>
+<loc>https://vp-net.tech/test.html</loc>
 <lastmod>2023-07-18T02:53:14+05:30</lastmod>
 </url>
 </urlset>

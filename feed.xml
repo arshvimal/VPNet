@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>VPNet</title>
-    <link href="https://arshvimal.github.io/VPNet/feed.xml" rel="self" />
-    <link href="https://arshvimal.github.io/VPNet" />
+    <link href="https://vp-net.tech/feed.xml" rel="self" />
+    <link href="https://vp-net.tech" />
     <updated>2023-07-18T02:53:14+05:30</updated>
     <author>
         <name>Arsh Vimal</name>
     </author>
-    <id>https://arshvimal.github.io/VPNet</id>
+    <id>https://vp-net.tech</id>
 
     <entry>
         <title>Test</title>
         <author>
             <name>Arsh Vimal</name>
         </author>
-        <link href="https://arshvimal.github.io/VPNet/test.html"/>
-        <id>https://arshvimal.github.io/VPNet/test.html</id>
+        <link href="https://vp-net.tech/test.html"/>
+        <id>https://vp-net.tech/test.html</id>
 
         <updated>2023-07-18T02:53:14+05:30</updated>
             <summary>
