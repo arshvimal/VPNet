@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://arshvimal.github.io/VPNet/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "VPNet",
+    "description": "",
+    "home_page_url": "https://arshvimal.github.io/VPNet",
+    "feed_url": "https://arshvimal.github.io/VPNet/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Arsh Vimal"
+    },
+    "items": [
+    ]
+}
