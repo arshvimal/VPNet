@@ -3,30 +3,10 @@
     <title>VPNet</title>
     <link href="https://vp-net.tech/feed.xml" rel="self" />
     <link href="https://vp-net.tech" />
-    <updated>2023-07-18T02:53:14+05:30</updated>
+    <updated>1970-01-01T05:30:00+05:30</updated>
     <author>
         <name>Arsh Vimal</name>
     </author>
     <id>https://vp-net.tech</id>
 
-    <entry>
-        <title>Test</title>
-        <author>
-            <name>Arsh Vimal</name>
-        </author>
-        <link href="https://vp-net.tech/test.html"/>
-        <id>https://vp-net.tech/test.html</id>
-
-        <updated>2023-07-18T02:53:14+05:30</updated>
-            <summary>
-                <![CDATA[
-                    Test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Test</p>
-            ]]>
-        </content>
-    </entry>
 </feed>

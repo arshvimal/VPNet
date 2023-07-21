@@ -5,23 +5,10 @@
     "home_page_url": "https://vp-net.tech",
     "feed_url": "https://vp-net.tech/feed.json",
     "user_comment": "",
+    "icon": "https://vp-net.tech/media/website/VPNet.png",
     "author": {
         "name": "Arsh Vimal"
     },
     "items": [
-        {
-            "id": "https://vp-net.tech/test.html",
-            "url": "https://vp-net.tech/test.html",
-            "title": "Test",
-            "summary": "Test",
-            "content_html": "<p>Test</p>",
-            "author": {
-                "name": "Arsh Vimal"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-07-18T02:53:14+05:30",
-            "date_modified": "2023-07-18T02:53:14+05:30"
-        }
     ]
 }
