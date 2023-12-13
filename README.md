@@ -3,7 +3,7 @@
  
  Please note that VPNet is currently in Beta. To report issues you can create an issue on this repo or contact at support@vp-net.tech for any support required.
 
-All Purchases are non-refundable.
+All plans(except weekly) have a 100% refund window of 3 days.
 
  ![VPNet](https://github.com/arshvimal/VPNet/assets/69149458/064c2bf2-50ef-4f8b-b4a7-c4bd170621c2)
 
