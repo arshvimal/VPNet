@@ -1,3 +1,6 @@
+# Deprecated!
+ VPNet has been deprecated. Please use [ZephyrVPN](https://dash.zephyrvpn.com/) instead.
+
 # VPNet
  This repo is dedicated to the distribution of the VPNet Client App. You can download the latest release from under Releases on the right hand side of the page.
  
